@@ -77,3 +77,27 @@ nav ul{
   background-repeat: no-repeat;
   background-position: top left, bottom right;
 }
+.sction-title{
+  font-size: 45px;
+  font-weight: bold;
+
+}
+.section-description{
+  font-size: 18px;
+  font-size: regular;
+
+}
+.secondary-bg{
+
+  background-color: #FFF8F3;
+}
+main{
+  max-width:1140px;
+  margin: 0 auto;
+}
+.about{
+  border-radius: 10px;
+  padding: 130px 150px;
+  text-align: center;
+  margin-top: 130px;
+}
